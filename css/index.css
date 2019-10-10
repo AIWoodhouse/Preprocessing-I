@@ -143,14 +143,13 @@ header {
   font-family: 'Ubuntu', sans-serif;
   font-size: 1.5rem;
   margin-top: 5%;
-  border: 1px solid red;
 }
 header nav {
-  justify-content: space-between;
+  width: 80%;
+  margin-left: 27%;
 }
 header nav a {
-  color: purple;
-  border: 1px solid blue;
+  color: silver;
   flex-wrap: nowrap;
   padding: 4%;
   width: 80%;
@@ -203,6 +202,7 @@ header nav a {
 .middleContent h2 {
   font-size: 2rem;
   font-family: 'Ubuntu', sans-serif;
+  padding-bottom: 3%;
 }
 .middleContent h3 {
   font-size: 1.5rem;
